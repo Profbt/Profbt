@@ -33,41 +33,47 @@
 ## 🛠️ Tecnologias em uso
 
 ### 👨‍🏫 Com os alunos:
+
 ![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-### 🚀 Em aprendizado:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Robótica](https://img.shields.io/badge/Robótica-FF6F00?style=for-the-badge&logo=arduino&logoColor=white)
+
+### 📘 Estudando e me aprimorando:
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![UX/UI](https://img.shields.io/badge/UI/UX-000000?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## 📚 Projetos em destaque
+## 🧩 Meus Projetos
 
-| Projeto | Descrição | Link |
-|--------|-----------|------|
-| **Agrinho 2024** | Conexão campo-cidade, com jogos, animações e landing pages feitas pelos alunos. | [🌾 Acesse aqui](https://lobosilencioso.github.io/agrinho_2024/) |
-| **Paraná Faz Ciência (VR-PFC)** | Experiências científicas interativas em Realidade Virtual no contexto escolar. | [🔬 Ver projeto](https://vrpfc.vercel.app/) |
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| [Agrinho 2024](https://lobosilencioso.github.io/agrinho_2024/) | Plataforma que conecta consumidores da cidade a produtores do campo | HTML, CSS, JS |
+| [VR Paraná Faz Ciência](https://vrpfc.vercel.app/) | Experiência imersiva com temas científicos para estudantes | HTML, CSS, JS, VR |
 
----
-
-## ✍️ Repositórios educacionais
-
-- [`vr_pfc`](https://github.com/btcarval/vr_pfc): Realidade virtual aplicada à ciência
-- [`app_professores`](https://github.com/btcarval/app_professores): Aplicativo interno de apoio aos professores
-- [`app_laboratórios`](https://github.com/btcarval/app_laboratorios): Organização de recursos e agendas de laboratório
-- [`app01`](https://github.com/btcarval/app01): Projeto experimental com foco mobile
+> Veja mais projetos nos repositórios `vr_pfc`, `agrinho_2024`, `app_professores`, `app_laboratórios`, `app01`.
 
 ---
 
-## 📫 Contato
+## 💬 Frase que me guia
 
-<a href="mailto:bruno.barros.carvalho@escola.pr.gov.br" target="_blank"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/btcarval/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+> *"Educar é semear com sabedoria e colher com paciência."*
 
 ---
 
 <p align="center">
-  <img src="https://media.tenor.com/s7_LbXNcD2QAAAAd/corinthians-corinthians-token.gif" width="150" alt="Vai Corinthians!" />
+  <a href="https://www.linkedin.com/in/btcarval" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-btcarval-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://media.tenor.com/s7_LbXNcD2QAAAAd/corinthians-corinthians-token.gif" height="80px"/>
 </p>
