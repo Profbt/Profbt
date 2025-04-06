@@ -1,76 +1,73 @@
-<!-- Banner ou imagem no topo (opcional futuramente) -->
 <h1 align="center">👨‍🏫 Bruno Carvalho</h1>
-<h3 align="center">Professor | Desenvolvedor Front-end | Entusiasta em Educação e Tecnologia</h3>
 
----
-
-### 👋 Sobre mim
-
-Sou professor da rede estadual do Paraná atuando nas disciplinas de **Geografia**, **Pensamento Computacional**, **Programação** e **Robótica**. 
-Apaixonado por tecnologia, ensino e inovação. Em sala de aula, busco sempre aproximar os alunos das linguagens de programação e do pensamento lógico através de projetos interativos, jogos e aplicações práticas.
-
----
-
-### 📚 Atualmente lecionando
-
-- 🧠 Pensamento Computacional e Programação
-- 🤖 Programação e Robótica (Ensino Fundamental)
-- 📱 Desenvolvimento de Sistemas, Mobile e Banco de Dados (Ensino Médio Técnico)
-
----
-
-### 💻 Tecnologias e Ferramentas
-
-#### 📌 Estudando e aplicando:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=flat-square&logo=Scratch&logoColor=white)
-
-#### 🛠️ Outras ferramentas:
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
----
-
-### 🚀 Projetos em Destaque
-
-🔹 [Agrinho 2024 – Diretamente do campo até você](https://lobosilencioso.github.io/agrinho_2024/)  
-🔹 [app_professores](https://github.com/lobosilencioso/app_professores)  
-🔹 [app_laboratórios](https://github.com/lobosilencioso/app_laboratórios)  
-🔹 [app01](https://github.com/lobosilencioso/app01)
-
----
-
-### 🧠 Skills
-
-#### Hard Skills
-- Desenvolvimento Front-end com HTML, CSS, JS
-- Git e GitHub
-- Scratch e lógica de programação para iniciantes
-- Robótica educacional (Arduino, sensores, lógica)
-- Criação de jogos e aplicativos didáticos
-- UX/UI Design para projetos escolares
-- Metodologias Ágeis (SCRUM em sala de aula)
-
-#### Soft Skills
-- Comunicação com estudantes e comunidade escolar
-- Resolução criativa de problemas
-- Planejamento de aulas com foco em competências STEAM
-- Trabalho em equipe e colaboração
-- Liderança de projetos interdisciplinares
-
----
-
-### 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/btcarval)
-[![Email](https://img.shields.io/badge/E--mail-bruno.barros.carvalho@escola.pr.gov.br-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bruno.barros.carvalho@escola.pr.gov.br)
-
----
-
-<!-- Rodapé -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=footer"/>
+  Professor de Geografia, Pensamento Computacional, Programação e Robótica<br>
+  Desenvolvendo mentes criativas com tecnologia e educação<br>
+  <a href="https://lobosilencioso.github.io/agrinho_2024/" target="_blank">🌾 Projeto Agrinho 2024</a> • 
+  <a href="https://vrpfc.vercel.app/" target="_blank">🔬 Paraná Faz Ciência (VR)</a> • 
+  <a href="https://github.com/btcarval?tab=repositories" target="_blank">📦 Repositórios</a>
+</p>
+
+---
+
+## 🌍 Sobre mim
+
+- 🧑‍🏫 Professor da rede estadual do Paraná (Ensino Fundamental e Médio)
+- 👨‍💻 Leciono para turmas de:
+  - **Desenvolvimento de Sistemas** (mobile, banco de dados, programação)
+  - **Programação e Robótica** (Ensino Fundamental)
+- 💡 Apaixonado por educação, tecnologia, jogos e projetos criativos
+
+---
+
+## 🧠 Como ensino
+
+- 📌 **Aprendizagem Baseada em Projetos (ABP)**
+- 🎮 **Gamificação**
+- 🔁 **Aprendizagem baseada em erros**
+- 🧰 Aulas práticas com tecnologias reais, voltadas para resolução de problemas
+- 📱 Projetos interdisciplinares com produção de apps, jogos e simulações
+
+---
+
+## 🛠️ Tecnologias em uso
+
+### 👨‍🏫 Com os alunos:
+![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+### 🚀 Em aprendizado:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## 📚 Projetos em destaque
+
+| Projeto | Descrição | Link |
+|--------|-----------|------|
+| **Agrinho 2024** | Conexão campo-cidade, com jogos, animações e landing pages feitas pelos alunos. | [🌾 Acesse aqui](https://lobosilencioso.github.io/agrinho_2024/) |
+| **Paraná Faz Ciência (VR-PFC)** | Experiências científicas interativas em Realidade Virtual no contexto escolar. | [🔬 Ver projeto](https://vrpfc.vercel.app/) |
+
+---
+
+## ✍️ Repositórios educacionais
+
+- [`vr_pfc`](https://github.com/btcarval/vr_pfc): Realidade virtual aplicada à ciência
+- [`app_professores`](https://github.com/btcarval/app_professores): Aplicativo interno de apoio aos professores
+- [`app_laboratórios`](https://github.com/btcarval/app_laboratorios): Organização de recursos e agendas de laboratório
+- [`app01`](https://github.com/btcarval/app01): Projeto experimental com foco mobile
+
+---
+
+## 📫 Contato
+
+<a href="mailto:bruno.barros.carvalho@escola.pr.gov.br" target="_blank"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/btcarval/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+---
+
+<p align="center">
+  <img src="https://media.tenor.com/s7_LbXNcD2QAAAAd/corinthians-corinthians-token.gif" width="150" alt="Vai Corinthians!" />
 </p>
