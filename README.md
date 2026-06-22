@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 <!-- Header Inspirado no Andrew6rant usando Tabela Invisível -->
@@ -94,25 +93,12 @@ Educador tecnológico apaixonado por unir código e criatividade. Desenvolvo sol
 
 <div align="center">
 
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN)
-[![Portfólio Web](https://img.shields.io/badge/Portfólio-2DCD5F?style=for-the-badge&logo=vercel&logoColor=white)](https://central.profbt.com.br/)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:btcarval@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/btcarval)
+[![Portfólio Web](https://img.shields.io/badge/Portfólio-2DCD5F?style=for-the-badge&logo=vercel&logoColor=white)](https://profbt.com.br/)
 
 </div>
 ```
 
 ---
 
-### ⚙️ Instruções Importantes pós-cópia:
-
-1. **GitHub Stats & Snake:** 
-   - O seu username do GitHub é `Profbt`. Deixei o código configurado para ele. Se as estatísticas não carregarem de primeira, não se preocupe, o Vercel Apps costuma demorar algumas horas para gerar a imagem na primeira vez.
-   - Para a **Cobrinha (Snake Chart)** funcionar, você precisa criar uma Action no seu repositório. [Siga este tutorial rápido aqui](https://github.com/Platane/snk), é só clicar em "Use this template" e configurar a workflow. Vale muito a pena o resultado visual!
-
-2. **Links de Contato:** 
-   - Lembre-se de substituir `SEU-EMAIL@gmail.com` e `SEU-LINKEDIN` no código acima pelos seus dados reais.
-
-3. **Agrinho:** 
-   - Retirei completamente conforme o seu pedido. A tabela de projetos agora está mais limpa, usando o modelo "Card" que o Andrew costuma usar, ao invés da tabela tradicional e feia do Markdown.
-
-Esse layout usa o poder do `theme=dark` e esconde as bordas (`hide_border=true`) para dar aquela sensação de que o perfil é um site integrado ao GitHub, e não apenas um texto colado. Qualquer ajuste fino, é só falar!
