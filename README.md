@@ -8,7 +8,7 @@
     </td>
     <td valign="middle" align="left">
       <h1>Prof. Bruno Carvalho</h1>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2DCD5F&center=false&vCenter=true&width=435&lines=Professor;Desenvolvedor;Solu%C3%A7%C3%A3o+de+Problemas;Educador+Inovador" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2DCD5F&center=false&vCenter=true&width=435&lines=Professor;Desenvolvedor;Solu%C3%A7%C3%A3o+de+Problemas;Especialista+em+IA;Ge%C3%B3grafo+Tech" alt="Typing SVG" />
     </td>
   </tr>
 </table>
@@ -18,29 +18,41 @@
 ---
 
 ### 👨‍🏫 Sobre Mim
-Educador tecnológico apaixonado por unir código e criatividade. Desenvolvo soluções inovadoras focadas em Realidade Virtual, Robótica e Geografia Digital, transformando problemas complexos em experiências de aprendizado intuitivas.
+Graduado em **Informática** e **Geografia**, com especializações em **Inteligência Artificial**, **Informática na Educação** e **Sistemas de Informação**. Atuo na intersecção entre desenvolvimento de software, geotecnologias e educação. 
+
+Atualmente, foco na criação de soluções full-stack com **React, Next.js e Supabase**, integrando fluxos de trabalho com **IA local e agentes** (Cursor, Claude Code, Hermes Agent, Qwen, OpenCode). Minha experiência também abrange mapeamento geoespacial com **ArcGIS**, processamento fotogramétrico via **Agisoft Metashape** e **Drones agrícolas**, unindo o mundo digital à análise espacial do mundo real.
 
 ---
 
 ### 🛠️ Stack Tecnológica
 
-**👨‍🏫 Ensino & Desenvolvimento Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**💻 Desenvolvimento & Web**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**🌍 Geotecnologias & Espacial**
+![ArcGIS](https://img.shields.io/badge/ArcGIS-013A63?style=for-the-badge&logo=arcgis&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)
+![Metashape](https://img.shields.io/badge/Agisoft_Metashape-FF6F00?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Drone](https://img.shields.io/badge/Drones_Agrícolas-1A1A1A?style=for-the-badge&logo=dji&logoColor=white)
+![WebXR](https://img.shields.io/badge/WebXR/VR-1A73E8?style=for-the-badge&logo=webxr&logoColor=white)
+
+**🤖 IA & Ferramentas de Produtividade**
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_AI-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![IA_Local](https://img.shields.io/badge/IA_Local-FF6F00?style=for-the-badge&logo=ollama&logoColor=white)
+
+**👨‍🏫 Educação & Maker**
 ![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-**🔭 Aprendizado Contínuo**
-![Inteligência Artificial](https://img.shields.io/badge/IA-FF6F00?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
@@ -54,7 +66,7 @@ Educador tecnológico apaixonado por unir código e criatividade. Desenvolvo sol
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/Scratch-4D97FF?style=flat-square&logo=scratch&logoColor=white" />
+        <img src="https://img.shields.io/badge/WebXR-1A73E8?style=flat-square&logo=webxr&logoColor=white" />
       </p>
       <a href="https://vrpfc.vercel.app/" target="_blank">🔗 Explorar Projeto</a>
     </td>
@@ -98,7 +110,3 @@ Educador tecnológico apaixonado por unir código e criatividade. Desenvolvo sol
 [![Portfólio Web](https://img.shields.io/badge/Portfólio-2DCD5F?style=for-the-badge&logo=vercel&logoColor=white)](https://profbt.com.br/)
 
 </div>
-```
-
----
-
