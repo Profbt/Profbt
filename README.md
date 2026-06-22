@@ -109,4 +109,10 @@ Atualmente, foco na criação de soluções full-stack com **React, Next.js e Su
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/btcarval)
 [![Portfólio Web](https://img.shields.io/badge/Portfólio-2DCD5F?style=for-the-badge&logo=vercel&logoColor=white)](https://profbt.com.br/)
 
+<br> <!-- Quebra de linha para dar espaço entre os botões e o GIF -->
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" alt="Coding GIF" />
+
 </div>
+```
+
