@@ -71,7 +71,6 @@ I also hold a master's degree in Geography and am pursuing a PhD focused on appl
 | **[Student Portal](https://portaldoalunovr.vercel.app/)** | A responsive hub that centralizes digital learning resources and improves student access to institutional services. | Private source · [Live demo](https://portaldoalunovr.vercel.app/) |
 | **[VR Presente](https://vrpresente.vercel.app/login)** | A school-management workflow application focused on attendance and operational organization. | Private source · [Live demo](https://vrpresente.vercel.app/login) |
 | **[Learning Recovery Platform](https://vraprendizagem.vercel.app/)** | A digital platform supporting structured learning-recovery initiatives and educational resource delivery. | Private source · [Live demo](https://vraprendizagem.vercel.app/) |
-| **[TOFAS 2026](https://site-tofas-2026.vercel.app/)** | A public-facing project site designed for clear program communication and accessible information delivery. | Private source · [Live demo](https://site-tofas-2026.vercel.app/) |
 
 > Some production projects use private repositories because they support institutional workflows. Their public demonstrations are listed without exposing source code, credentials, internal systems, or sensitive school data.
 
