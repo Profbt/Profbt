@@ -84,8 +84,8 @@ This combination helps me communicate technical decisions clearly, document syst
 ## GitHub activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Profbt&show_icons=true&theme=transparent&hide_border=true&title_color=22c55e" alt="Bruno Carvalho's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Profbt&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=22c55e" alt="Most used languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Profbt&theme=github_dark" alt="Bruno Carvalho's GitHub statistics" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Profbt&theme=github_dark" alt="Top languages by repository" />
 </div>
 
 <picture>
