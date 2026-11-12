@@ -4,7 +4,9 @@
 
 # Bruno Carvalho
 
-### Full-Stack Developer · AI & Automation · Programming Instructor · Technical Trainer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+%26+Automation+Builder;Programming+Instructor;Technical+Trainer;Geospatial+Researcher" alt="Full-Stack Developer, AI and Automation Builder, Programming Instructor, Technical Trainer, and Geospatial Researcher" />
+
+**Full-Stack Development · Applied AI · Automation · Technical Training · Geospatial Technologies**
 
 I build practical digital products that connect **software engineering, applied AI, automation, education, and geospatial technologies**.
 
